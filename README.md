@@ -127,7 +127,7 @@ SSH kurulumu için bir video ile birlikte hareket etmeyi veya talimatları doğr
 
 ---
 
-## Değişiklikleri Local Olarak Commit Etmek
+## Değişiklikleri Local Olarak Commit Etmek X
 *Bu adım genellikle bir projede bir veya daha fazla kez yapılacaktır. Daha büyük projeler bu adımı birçok kez tamamlamanızı gerektirebilir.*
 1. Komut satırınıza şunu yazın: 
     ```
@@ -144,7 +144,7 @@ SSH kurulumu için bir video ile birlikte hareket etmeyi veya talimatları doğr
 
 ---
 
-## Değişiklikleri GitHub'a Push Etme
+## Değişiklikleri GitHub'a Push Etme X 
 *Bu adım genellikle bir projede bir veya daha fazla kez yapılacaktır. Codegrade'e bağlıysanız, bu işlem projenizin yeniden puanlanmasına neden olacaktır.*
 1. 
     ```
