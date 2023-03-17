@@ -27,28 +27,28 @@ Sorunlarla karşılaşırsanız lütfen Hub'ın tartışma forumlarını ziyaret
 
 ---
 
-## GitHub Hesabı Aç
+## GitHub Hesabı Aç X
 *Sadece bir kez.*
 
-Henüz bir GitHub hesabı oluşturmadıysanız, bu [GitHub](https://github.com/) bağlantısını izleyin.
-> Kaydol'a tıklayın ve talimatları izleyin. 
-> Kurulum sırasında muhtemelen son adım olan e-postanızı doğrulamanız gerekecektir.
+Henüz bir GitHub hesabı oluşturmadıysanız, bu [GitHub](https://github.com/) bağlantısını izleyin. 
+> Kaydol'a tıklayın ve talimatları izleyin.  
+> Kurulum sırasında muhtemelen son adım olan e-postanızı doğrulamanız gerekecektir. 
 
 ---
 
-## Komut Ekranını Aç 
-*Kariyerinizde sık sık kullanacağınız için bu adıma aşina olun.*
+## Komut Ekranını Aç  X 
+*Kariyerinizde sık sık kullanacağınız için bu adıma aşina olun.* 
 
 MacOS
 > Terminal'i açın: `Command Key + Spacebar` ardından aramaya `terminal` yazın.
 
 Windows
-> Henüz yapmadıysanız Windows için [GitBash](https://git-scm.com/downloads)'i yükleyin.  
-> GitBash'i açın: `Windows Key` ve ardından arama kısmına `git bash` yazın.
+> Henüz yapmadıysanız Windows için [GitBash](https://git-scm.com/downloads)'i yükleyin.   
+> GitBash'i açın: `Windows Key` ve ardından arama kısmına `git bash` yazın.  
 
 ---
 
-## Kullanıcı Adı ve E-mail Oluşturma
+## Kullanıcı Adı ve E-mail Oluşturma  X 
 *Bu adımın kullanacağınız her farklı bilgisayar için bir kez tamamlanması gerekecektir.*
 
 1. Komut satırı arayüzünüzde şunu yazın: 
@@ -59,7 +59,7 @@ Windows
     git config --global user.email your@email.here
     ```
 
-2. İşe yarayıp yaramadığını kontrol edin. 
+2. İşe yarayıp yaramadığını kontrol edin.  X 
     ```
     git config --list
     ```
@@ -72,7 +72,7 @@ Windows
     ```
 ---
     
-## Kimlik Doğrulamasının Yapılması
+## Kimlik Doğrulamasının Yapılması X 
 *Bu adımın kullanacağınız her farklı bilgisayar için bir kez tamamlanması gerekecektir.*
   
 SSH kurulumu için bir video ile birlikte hareket etmeyi veya talimatları doğrudan GitHub'dan takip etmeyi seçin.
@@ -81,7 +81,7 @@ SSH kurulumu için bir video ile birlikte hareket etmeyi veya talimatları doğr
 
 ---
 
-## Repository’nin Forklanması
+## Repository’nin Forklanması X 
 *Bu adımın GitHub'da kendi kopyanıza sahip olmak istediğiniz her repository için bir kez tamamlanması gerekecektir.*
 1. Bu README'nin bulunduğu GitHub sayfasında, sağ üst tarafa yakın bir yerde `Fork`'u seçin.
 2. `Owner` altında accountunuzu seçin.
@@ -91,7 +91,7 @@ SSH kurulumu için bir video ile birlikte hareket etmeyi veya talimatları doğr
 
 ---
 
-## Repository’nin Clone’lanması
+## Repository’nin Clone’lanması X 
 *Bu adımın kendi bilgisayarınıza yerleştirmek istediğiniz her repository için bir kez yapılması gerekecektir.*
 
 1. GitHub'da yeşil `Code` düğmesini bulun ve seçin.
@@ -111,7 +111,7 @@ SSH kurulumu için bir video ile birlikte hareket etmeyi veya talimatları doğr
 
 ---
 
-## Repository’de Değişiklik Yapma
+## Repository’de Değişiklik Yapma X 
 *Bu adım genellikle projeniz üzerinde entegre geliştirme ortamları ile çalışmanızı içerecektir*
 1. CLI'nızda `cd bd-orientation` yazarak klonladığınız repository’e gidin. Dizin adınız biraz farklı olabilir.
 2. `ls` yazın . README.md adlı bir dosya görmelisiniz.
