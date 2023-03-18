@@ -17,17 +17,17 @@ Bu github repository, Git ve GitHub hesaplarınızın kurulumunda size yol göst
 - [x]  Değişiklikleri Local olarak commit etmek
 - [x]  Değişiklikleri GitHub'a Taşıma
 - [x]  Standart İş Akışı
-	-YO-
+	-
 
 ---
 
-## README’yi görüntüle
+## README’yi görüntüle -YO-
 İlk adım tamamlandı. Hoş geldiniz ve sonraki adımlarda iyi şanslar.
 Sorunlarla karşılaşırsanız lütfen Hub'ın tartışma forumlarını ziyaret edin veya yardım için bize başvurun.
 
 ---
 
-## GitHub Hesabı Aç X
+## GitHub Hesabı Aç X X 
 *Sadece bir kez.*
 
 Henüz bir GitHub hesabı oluşturmadıysanız, bu [GitHub](https://github.com/) bağlantısını izleyin. 
