@@ -166,7 +166,7 @@ SSH kurulumu için bir video ile birlikte hareket etmeyi veya talimatları doğr
 
 ---
 
-## Tebrikler!! ##
+## Tebrikler!! ## GOREV TAMAM
 Git, muhtemelen kariyeriniz boyunca her gün kullanacağınız bir araç olacaktır.
 
 Bu, bilgisayarınızın ortamının doğru ayarlandığından emin olmak için Git'e minimal bir girişti. Ek işlevsellik ve açıklamalarla Git'e daha derin bir giriş, Workintech'te devam eden öğreniminizin bir parçası olacaktır.
