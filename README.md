@@ -22,7 +22,7 @@ Bu github repository, Git ve GitHub hesaplarınızın kurulumunda size yol göst
 ---
 
 ## README’yi görüntüle -YO-
-İlk adım tamamlandı. Hoş geldiniz ve sonraki adımlarda iyi şanslar.
+İlk adım tamamlandı. Hoş geldiniz ve sonraki adımlarda iyi şanslar. - VSC'da deneme metini ekleme - 
 Sorunlarla karşılaşırsanız lütfen Hub'ın tartışma forumlarını ziyaret edin veya yardım için bize başvurun.
 
 ---
